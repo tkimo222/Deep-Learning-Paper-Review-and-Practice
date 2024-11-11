@@ -59,7 +59,7 @@
 * Batch normalization: Accelerating deep network training by reducing internal covariate shift (PMLR 2015)
     * [Original Paper Link](https://arxiv.org/abs/1502.03167) / [Paper Review Video](https://www.youtube.com/watch?v=58fuWVu5DVU) / [Summary PDF](/lecture_notes/Batch_Normalization.pdf) / [Code Practice](/code_practices/Batch_Normalization_Evaluation_(with_Residual_Connection).ipynb)
 
-#### Adversarial Examples & Backdoor Attacks (적대적 예제 & 백도어 공격)
+#### Adversarial Examples & Backdoor Attacks (對抗性範例 & 後門攻擊)
 
 * HopSkipJumpAttack: A Query-Efficient Decision-Based Attack (S&P 2020)
     * [Original Paper Link](https://arxiv.org/abs/1904.02144) / Paper Review Video/ Summary PDF / [Targeted Attack](/code_practices/Targeted_HopSkipJumpAttack_Using_CIFAR10.ipynb) / [Untargeted Attack](/code_practices/Untargeted_HopSkipJumpAttack_Using_CIFAR10.ipynb)
@@ -78,7 +78,7 @@
 * Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models (ICLR 2018)
     * [Original Paper Link](https://arxiv.org/abs/1712.04248) / [Paper Review Video](https://www.youtube.com/watch?v=3dX_SsO2mis) / [Summary PDF](/lecture_notes/Boundary_Attack.pdf) / Code Practice
 
-### 지난 논문 리뷰 콘텐츠
+### 往屆論文評審內容
 
 * Explaining and Harnessing Adversarial Examples (ICLR 2015)
     * [Original Paper Link](https://arxiv.org/abs/1412.6572) / [Paper Review Video](https://www.youtube.com/watch?v=99uxhAjNwps)
